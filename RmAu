@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+cd LEWN
+echo -e "\e[33m            _   _       __   __     __  \e[0m"
+echo -e "\e[33m           | _ \  /_\ |  \/  | _ )/ _ \ \e[0m"
+echo -e "\e[33m           |   / / _ \| |\/| | _ \ (_) | \e[0m"
+echo -e "\e[33m           |_|_\/_/ \_\_|  |_|___/\___/  \e[0m"
+echo -e "\e[33m                                         \e[0m"
+while(true) do
+lua start.lua 
+done

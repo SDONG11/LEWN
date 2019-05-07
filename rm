@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+cd LEWN
+screen -S LEWN -X kill
+screen -S LEWN ./RmAu
